@@ -1,3 +1,3 @@
-# yylAdminTop
+# yylAdminPc
 
 ## [yylAdmin](https://gitee.com/skyselang/yylAdmin) 前台
